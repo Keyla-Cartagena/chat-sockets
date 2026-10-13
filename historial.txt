@@ -1,0 +1,15 @@
+[2026-10-12 22:37:58] Servidor iniciado en el puerto 5000
+[2026-10-12 22:39:22] Servidor iniciado en el puerto 5000
+[2026-10-12 22:40:03] keyla se unió (1 conectados)
+[2026-10-12 22:40:35] lui se unió (2 conectados)
+[2026-10-12 22:42:12] keyla salió (1 conectados)
+[2026-10-12 22:42:19] ana se unió (2 conectados)
+[2026-10-12 22:42:23] lui salió (1 conectados)
+[2026-10-12 22:42:32] luis se unió (2 conectados)
+[2026-10-12 22:44:08] jose se unió (3 conectados)
+[2026-10-12 22:44:23] <jose> hola a todos
+[2026-10-12 22:44:33] <luis> hola jose
+[2026-10-12 22:44:40] <jose> holaaaaaaaaaaaa
+[2026-10-12 22:45:23] luis salió (2 conectados)
+[2026-10-12 22:49:58] ana salió (1 conectados)
+[2026-10-12 22:50:02] jose salió (0 conectados)
