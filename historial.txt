@@ -13,3 +13,13 @@
 [2026-10-12 22:45:23] luis salió (2 conectados)
 [2026-10-12 22:49:58] ana salió (1 conectados)
 [2026-10-12 22:50:02] jose salió (0 conectados)
+[2026-10-14 13:25:59] Servidor iniciado en el puerto 5000
+[2026-10-14 13:26:16] Gus se unió (1 conectados)
+[2026-10-14 13:26:31] <Gus> hola
+[2026-10-14 13:26:55] Vale se unió (2 conectados)
+[2026-10-14 13:27:05] <Vale> hola
+[2026-10-14 13:27:29] Keyla se unió (3 conectados)
+[2026-10-14 13:27:34] <Keyla> buenas buenas
+[2026-10-14 13:28:01] Vale salió (2 conectados)
+[2026-10-14 13:28:02] Gus salió (1 conectados)
+[2026-10-14 13:28:05] Keyla salió (0 conectados)
